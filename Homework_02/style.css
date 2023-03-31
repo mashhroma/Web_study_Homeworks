@@ -1,0 +1,93 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: 'merryweather', sans-serif;
+}
+
+table {
+    width: 250px;
+    margin-right: 150px;
+}
+
+h1 {
+    display: block;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 0%;
+    margin-bottom: 1%;
+    padding-top: 1%;
+    padding-bottom: 0%;
+    font-size: 2em;
+    font-weight: bold;
+    color: #976103;
+    text-indent: 3%;
+}
+
+
+h2 {
+    margin-left: 0%;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+    color: rgb(176, 97, 41);
+}
+
+p {
+    margin-left: 40%;
+    padding: 2%;
+    border-radius: 5%;
+    background-color: rgba(142, 221, 176, 0.144);
+    color: #916217;
+}
+
+.peps {
+    margin-left: 1%;
+    text-indent: 3px;
+    list-style-image: url('images/marker.png');
+}
+
+.chub {
+    margin-left: 1%;
+    text-indent: 3px;
+    list-style-image: url('images/marker-chub.png');
+}
+
+.menu {
+    padding: 1%;
+    padding-bottom: 2%;
+    margin: 0%;
+    background: linear-gradient(45deg, #EECFBA, #c5e8e0);
+    color: #ffffff;
+}
+
+.main {
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 2%;
+    color: #7a3f09;
+}
+
+.footer {
+    margin: 0%;
+    padding: 1%;
+    background-color: rgba(142, 221, 176, 0.144);
+    color: #916217;
+    font-size: small;
+    text-align: center;
+}
+
+.for_image {
+    margin: 0%;
+    padding: 0%;
+    background-color: #e3a2d200;
+}
+
+img {
+    border: 3px;
+    border-radius: 5%;
+    width: 1200px;
+}
